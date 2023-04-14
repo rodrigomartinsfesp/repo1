@@ -9,7 +9,10 @@ teste 3 e teste 4
 teste 4 e teste 6
 
 Adicionando nova linha
+<<<<<<< HEAD
 Adicionando nova linha
 Adicionando nova linha
 Adicionando nova linha
 ## Nova linha brach DEV
+=======
+>>>>>>> parent of a8b6526 (Adicionando nova linha no README)
